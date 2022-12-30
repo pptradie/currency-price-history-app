@@ -18,7 +18,7 @@
 		"@types/lodash": "^4.14.136",
 		"@types/node": "^8.0.57",
 		"chai": "^4.2.0",
-		"mocha": "^6.2.0",
+		"mocha": "^10.2.0",
 		"serverless-offline": "^5.8.0",
 		"serverless-webpack": "^5.1.1",
 		"sinon": "^7.3.2",
